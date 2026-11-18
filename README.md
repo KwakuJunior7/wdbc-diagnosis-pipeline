@@ -107,4 +107,8 @@ Wolberg, W., Mangasarian, O., Street, N., and Street, W. (1993). *Breast Cancer 
 
 ## Author
 
-**Junior Owusu Ansah**, MSc Computer Science, New Mexico Highlands University · [LinkedIn](https://www.linkedin.com/in/junior-owusu-ansah/) · [owususjunior7@gmail.com]
+**Junior Owusu Ansah**, MSc Computer Science, New Mexico Highlands University · [LinkedIn](https://www.linkedin.com/in/junior-owusu-ansah/) · [owususjunior7@gmail.com](mailto:owususjunior7@gmail.com)
+
+## License
+
+[MIT](LICENSE)
